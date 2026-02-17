@@ -1,0 +1,5 @@
+numbers=list(map(int,input("enter numbers seperated by space :").split()))
+largest=max(numbers)
+smallest=min(numbers)
+print("the slargest number is :",largest)
+print("the smllest number is:",smallest)
